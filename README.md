@@ -1,4 +1,4 @@
-﻿# SQLI internship coding challenge
+﻿# internship coding challenge
 
  ## About :
  The objective is to write a program that will identify which
